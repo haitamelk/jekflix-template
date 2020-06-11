@@ -7,7 +7,7 @@ permalink: /about/
 description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/Capture d’écran 2020-05-18 à 11.28.14 a.m..png" alt="Thiago Rossener" width="200">
 
 # About
 
