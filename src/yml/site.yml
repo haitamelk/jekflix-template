@@ -1,14 +1,9 @@
 name: Growth Hackers
 title: La réference des Growth Hacker Marocains
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: haitam.elkhassal@gmail.com
-disqus_username: disqus_username
+  - Growth Hackers
 show_hero: true
 menu:
   - title: Home
@@ -19,3 +14,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: haitam.elkhassal@gmail.com
+disqus_username: disqus_username
